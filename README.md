@@ -1,2 +1,6 @@
 # Creative-PS-scripts
-All scripts made for Growpai! 
+Scripts only work on Growpai
+
+All scripts encrypted so skids wont steal / sell it
+
+
